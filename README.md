@@ -5,9 +5,9 @@ Join People at the time of natural disaster to tackle the situation together.
 OBJECTIVE
 ---
        The idea is to make an app which be a consistent helper throughout the tragedy . It consist of three parts :-
-       1.	Pre- Caution
-       2.	On- Field
-       3.	Post- Solution
+       1.	Pre-Caution
+       2.	On-Field
+       3.	Post-Solution
 
 •	Pre-Caution
 ---
