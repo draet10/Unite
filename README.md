@@ -1,10 +1,10 @@
 Unite
 ===
-Join People at the time of tragedy to tackle the situation together. 
+Join People at the time of natural disaster to tackle the situation together. 
 
 OBJECTIVE
 ---
-       The idea is to make an app which be a consistent helper throughout the situation . It consist of three parts :-
+       The idea is to make an app which be a consistent helper throughout the tragedy . It consist of three parts :-
        1.	Pre- Caution
        2.	On- Field
        3.	Post- Solution
