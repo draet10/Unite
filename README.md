@@ -1,10 +1,10 @@
-Unite
+Unite (An idea for codefundo++)
 ===
 Join People at the time of natural disaster to tackle the situation together. 
 
 OBJECTIVE
 ---
-       The idea is to make an app which be a consistent helper throughout the tragedy . It consist of three parts :-
+       The idea is to make an app which be a consistent helper throughout the tragedy. It aims to bring the people together. Unite them. It would be easier for every to help at the time of crisis. It consist of three parts :-
        1.	Pre-Caution
        2.	On-Field
        3.	Post-Solution
@@ -16,6 +16,7 @@ OBJECTIVE
        o	New locations lifestyle 
        o	Climate
        o	News
+       o      Sending messages
        o	Precautions one can take 
        o	Suggestion keeping natural disaster management in mind
        o	Map guidance
@@ -31,6 +32,7 @@ Thus, this stage is very important in ongoing development.
         o	Find a place.
         o	Reach the place.
         o	Ask for help.
+        o	Messaging the people near user.
         o	Manage phone battery. 
         o	Give updates.
         o	Give concern to acquaintances. 
@@ -58,5 +60,36 @@ Users can even send messages as concern to their acquaintances who are believed 
          o	News
 
 This section will include mostly about the donation one want to give to help people to  recover the loses faced because of the catastrophe. If the phone gets discharged in active duration then the records will be saved. And it may help the rescue team to find out the survivors. 
+
+## How it works
+
+The working model doesnot require very sophisticated technology. It would work on any simple smart phone. The requirements are very nominal. The app would work on the input from a particular region to find out the problems they face and work on them to call for help in the genuine places. The GPS will be in use to find out the location. The map guidance feature will be used by the server analysis. At the time of catastrophe, it would create a few routes to a genuine place in a locality and finally return the most optimum path to the user. The people of a particular range will be marked differently and people could even get know where other people are. This is a simple GPS based feature. The unique id of people that are required by the people would help to identify different people and their current location. Even if the user is unable to login a particular id. He would guided with his I.P. address. People can use the donate feature by online backing, digital payment app or credit card for payment.  
+
+## Starting
+
+Creating an Id with a mobile number or an email id. The people can also use some benefits of the app without login. The user can then use the app. He could send messages, read news, weather forecasting and other requirements. He can donate money to the people in need, which will connect them with the NGOs and other philanthropic organisations.  
+
+## Technology 
+
+       - Visual Studio 
+       - JAVA
+       - Kernel
+       - Webserver space
+       - Github repositories
+       - Azure
+      
+## Datasets
+       - USGS National Transportation Dataset(NTD) 
+       - Past Atlantic Storm Tracks 
+       - Internet Weather Source
+       - Coastal Digital Elevation Models (DEMs) 
+       - Open Weather Map
+       - Wikipedia
+       - Corporate Messaging by crowdflower
+       - GIS Dataset for map
+
+
+
+
  
    
